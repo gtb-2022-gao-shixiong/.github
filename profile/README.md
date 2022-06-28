@@ -2,6 +2,6 @@
 
 Hi, this is me.
 
-![me](..\asset\me.jpg)
+![me](../asset/me.jpg)
 
 I will be a software dev engineer. I will base in Xi'an.
